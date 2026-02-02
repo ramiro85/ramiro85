@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ramiro Ramírez García
 
-**Senior Software Engineer | Backend Architect | AWS Certified Developer**  
+**Software Engineer | Backend Architect | AWS Certified Developer**  
 15+ years building **scalable, data-driven systems** across logistics, fintech, telecom, and smart-device platforms.
 
 I specialize in **backend architecture, distributed systems, and API-first platforms**, translating complex business requirements into resilient, high-performance solutions.
