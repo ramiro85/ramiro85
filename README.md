@@ -68,3 +68,30 @@ I specialize in **backend architecture, distributed systems, and API-first platf
 ---
 
 ## 💼 Current Focus
+
+- Backend architecture & system design
+- High-scale API platforms
+- Cloud-native Python services
+- Event-driven and distributed systems
+- Technical leadership roles (Senior / Staff / Principal)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramiro-ramirez-garcia)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramiro85)
+
+📍 United States | Authorized to work in the U.S.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramiro85&theme=dark&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ramiro85&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiro85&theme=dark&layout=compact)
+
+---
+
+⭐ *If you're building systems that need to scale, integrate, and last — let's talk.*
