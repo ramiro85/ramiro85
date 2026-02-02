@@ -87,10 +87,7 @@ I specialize in **backend architecture, distributed systems, and API-first platf
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramiro85&theme=dark&hide_border=false)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ramiro85&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiro85&theme=dark&layout=compact)
 
 ---
 
